@@ -37,7 +37,7 @@
     "browserify-shim": "^3.8.0",
     "clean-css": "^3.0.7",
     "express": "^4.11.2",
-    "fs-extra": "^0.16.3",
+    "fs-extra": "^0.30.0",
     "font-awesome": "^4.3.0",
     "glob": "^4.3.5",
     "jscs": "^1.11.3",
