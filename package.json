@@ -40,7 +40,7 @@
     "fs-extra": "^0.16.3",
     "font-awesome": "^4.3.0",
     "glob": "^4.3.5",
-    "jscs": "^1.11.3",
+    "jscs": "^2.0.0",
     "jshint": "^2.6.0",
     "jshint-stylish": "^1.0.0",
     "less": "^2.2.0",
